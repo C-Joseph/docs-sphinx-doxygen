@@ -1,3 +1,6 @@
+#Sphinx build files
+docs/build
+
 # Prerequisites
 *.d
 
