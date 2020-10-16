@@ -1,0 +1,1 @@
+add_library (docs-sphinx-doxygen "main.c")
