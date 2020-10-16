@@ -1,6 +1,6 @@
 /**
  * Main file
- */
+*/
 #include <stdio.h>
 
 int main(){
